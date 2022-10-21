@@ -144,6 +144,7 @@ font-style: normal;
 .quote
 {
     min-width: 400px;
+    mix-blend-mode:luminosity;
 }
 .bottom {
     display: flex;
